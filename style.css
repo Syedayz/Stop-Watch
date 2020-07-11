@@ -1,0 +1,26 @@
+body{
+    background-color:lightcyan !important;
+    text-align: center;
+}
+.dispay-4{
+    color: darkcyan !important;
+    font-weight: bolder !important;
+    font-family: 'Indie Flower', cursive !important;
+    margin-top: 23%;
+}
+h2{
+    color:darkcyan;
+    width: 15%;
+    text-align: center;
+    margin-top: 5% !important;
+    display: inline-block;
+
+}
+button{
+    color: lemonchiffon;
+    background-color: cadetblue;
+    margin-top: 5% !important;
+    width: 200px;
+    height: 70px;
+    font-size: 40px !important;
+}
